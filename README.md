@@ -1,4 +1,4 @@
-# Selenium-eclipse-automation-process
+# Selenium-automation-process
 # Created By:
 Ido Goldshtein
 # About:
